@@ -23,3 +23,8 @@
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+body {
+  background-color: cornflowerblue;
+  color: white;
+  font-size: 14px;
+}
