@@ -1,1 +1,4 @@
-
+.tooltip .tooltiptext {
+  top: -5px;
+  left: 105%;
+}
