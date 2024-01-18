@@ -34,3 +34,30 @@ body {
 .align {
   text-align: center;
 }
+.registration-form {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  .registration-form input[type="text"], .registration-form input[type="email"], .registration-form input[type="password"] {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  .registration-form input[type="submit"] {
+    width: 108%;
+    padding: 15px;
+    background-color: #ff8c00;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .registration-form input[type="checkbox"] {
+    margin-bottom: 15px;
+  }  
+  #repass {
+    margin-bottom: 15px;
+  }
